@@ -55,12 +55,11 @@ cd ProfileCardApp
 Install dependencies:
 
 bash
-Copy code
+
 flutter pub get
+
 Run the app (web example):
 
-bash
-Copy code
 flutter run -d chrome
 
 ## 📚 What I Learned
